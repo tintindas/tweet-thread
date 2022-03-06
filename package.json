@@ -1,0 +1,24 @@
+{
+	"name": "tweet-thread",
+	"version": "1.0.0",
+	"description": "Utility to help post twitter threads",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tintindas/tweet-thread.git"
+	},
+	"keywords": [
+		"twitter",
+		"thread",
+		"tokens"
+	],
+	"author": "Upamanyu Das",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/tintindas/tweet-thread/issues"
+	},
+	"homepage": "https://github.com/tintindas/tweet-thread#readme"
+}
