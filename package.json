@@ -20,5 +20,8 @@
 	"bugs": {
 		"url": "https://github.com/tintindas/tweet-thread/issues"
 	},
-	"homepage": "https://github.com/tintindas/tweet-thread#readme"
+	"homepage": "https://github.com/tintindas/tweet-thread#readme",
+	"devDependencies": {
+		"typescript": "^4.6.2"
+	}
 }
